@@ -1,2 +1,2 @@
 # ML-Deployment-FastAPI-Docker
-A project showcasing ML model deployment using FastAPI, containerized with Docker, and validated through Postman API calls
+A project showcasing ML model deployment using FastAPI, containerized with Docker, and validated through API calls in Postman
